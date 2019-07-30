@@ -1,0 +1,101 @@
+body {
+/*	background-image: url(Header.jpg);
+	background-size: cover;
+	background-position: center;*/
+	background-color: #F6F2F0;
+}
+
+.bg-light {
+  background-color: #F6F2F0 !important;
+}
+
+
+.navbar-brand {
+	display: inline-block;
+  	padding-top: 0.3125rem;
+  	padding-bottom: 0.3125rem; 
+  	margin-right: 1rem;
+  	line-height: inherit;
+  	white-space: nowrap;
+	font-family: 'Libre Barcode 128 Text', cursive;
+	font-size: 40px;
+	color: #F6F2F0 !important;
+}
+
+.nav-link {
+	font-family: 'DM Serif Text', serif;
+	font-size: 45px;
+	color: #F2A98F !important;
+}
+
+.nav-link:hover {
+	color: #737272 !important;
+}
+
+.dropdown-item {
+	font-family: 'Source Code Pro', monospace;
+
+}
+
+.dropdown-menu {
+	background-color: #F6F2F0;
+}
+
+
+h1	{
+	color: #F2A98F;
+	font-family: 'DM Serif Text', serif;
+	font-size: 150px;
+}
+
+h2	{
+	color: #F2A98F;
+	font-family: 'DM Serif Text', serif;
+	font-size: 40px;
+}
+
+
+h3	{
+	font-family: 'Source Code Pro', monospace;
+	font-size: 20px;
+	color: #737272;
+	display:inline;
+    background-color: white;
+    padding: 2px;
+    margin-top: 20px;
+}
+
+p {
+	font-family: 'Source Code Pro', monospace;
+	font-size: 15px;
+	color: #737272;
+}
+
+.content {
+	margin-top: 100px;
+}
+
+
+
+#headingGroup span {
+    color: #EA1C2C;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+    .blurb h2 {
+        font-size: 2rem;
+    }
+}
+
+

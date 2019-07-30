@@ -1,0 +1,83 @@
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url(https://images.unsplash.com/photo-1549507447-2439ff6656a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1081&q=80);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.bg-light {
+  background-color: transparent !important;
+}
+
+.navbar-brand {
+	display: inline-block;
+  	padding-top: 0.3125rem;
+  	padding-bottom: 0.3125rem;
+  	margin-right: 1rem;
+  	line-height: inherit;
+  	white-space: nowrap;
+	font-family: 'Libre Barcode 128 Text', cursive;
+	font-size: 40px;
+	color: transparent !important;
+}
+
+.nav-link {
+	font-family: 'DM Serif Text', serif;
+	font-size: 45px;
+	color: black !important;
+}
+
+.nav-link:hover {
+	color: #737272 !important;
+}
+
+.dropdown-item {
+	font-family: 'Source Code Pro', monospace;
+
+}
+
+.dropdown-menu {
+	background-color: #F6F2F0;
+}
+
+h1	{
+	color: white;
+	font-family: 'DM Serif Text', serif;
+	font-size: 100px;
+}
+h3	{
+	font-family: 'DM Serif Text', serif;
+	font-size: 20px;
+	color: #737272;
+  	margin-top: 20px;
+  	margin-left: 15%;
+  	margin-right: 15%;
+}
+
+.header {
+	font-family: 'DM Serif Text', serif;
+	font-size: 50px;
+	color: #737272;
+	text-align: center;
+  	margin-top: 20px;
+  	margin-left: 15%;
+  	margin-right: 15%;
+}
+
+button {
+	margin: 20px;
+}
+
+
+hr {
+	color: white;
+	width: 50%;
+}
+
+
+
+
+

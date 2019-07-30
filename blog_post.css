@@ -57,12 +57,12 @@ h2  {
 
 h3  {
   font-family: 'Source Code Pro', monospace;
-  font-size: 17px;
+  font-size: 25px;
   color: #737272;
   margin-top: 20px;
   margin-left: 15%;
   margin-right: 15%;
-
+  line-height: 45px;
 }
  
 p {
@@ -115,14 +115,16 @@ hr {
   word-wrap: break-word;
   position: absolute;
   padding: 2px;
-    left: 65%;
+    left: 40%;
     top: 500px;
     z-index: -1;
     }
 
 #code3  {
   font-family: 'Libre Barcode 128 Text', cursive;
+  font-size: 35px;
   color: black;
+  background-color: white;
   word-wrap: break-word;
   text-align: center;
     }
